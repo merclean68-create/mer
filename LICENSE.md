@@ -1,0 +1,98 @@
+[mer codes - Copie.txt](https://github.com/user-attachments/files/24197855/mer.codes.-.Copie.txt)
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>شَهِّر منتجك | الصفحة الرسمية</title>
+  <style>
+    body { font-family: "Segoe UI", Tahoma, Arial, sans-serif; margin: 0; background: #fafafa; color: #222; line-height: 1.8; }
+    header { background: #1c1c1c; color: #ffffff; padding: 70px 20px; text-align: center; position: relative; overflow: hidden; }
+    section { padding: 60px 20px; max-width: 900px; margin: auto; }
+    h1 { font-size: 42px; font-weight: 600; letter-spacing: 1px; }
+    h2 { font-size: 28px; font-weight: 500; color: #1c1c1c; }
+    p { font-size: 18px; color: #444; }
+    .btn { display: inline-block; background: transparent; color: #1c1c1c; padding: 14px 34px; text-decoration: none; border-radius: 30px; font-size: 16px; border: 2px solid #1c1c1c; transition: all 0.3s ease; cursor: pointer; }
+    .btn:hover { background: #1c1c1c; color: #fff; }
+    header .btn { color: #fff; border-color: #fff; }
+    header .btn:hover { background: #fff; color: #1c1c1c; }
+    .features { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 30px; margin-top: 40px; }
+    .box { background: #ffffff; padding: 35px 25px; border-radius: 0; border: 1px solid #e0e0e0; text-align: center; font-size: 17px; }
+    footer { background: #1c1c1c; color: #ccc; text-align: center; padding: 30px 20px; font-size: 14px; }
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+    .logo-animate { animation: float 3s ease-in-out infinite; }
+    .tutorial-box { background: #fff; border: 2px solid #1c1c1c; border-radius: 10px; padding: 20px; text-align: center; margin-top: 40px; }
+    .tutorial-box iframe { width: 100%; height: 360px; border-radius: 10px; border: none; }
+    .interactive-box { background: #eaeaea; border: 2px dashed #1c1c1c; border-radius: 10px; padding: 25px; text-align: center; margin-top: 40px; animation: float 4s ease-in-out infinite; }
+    .video-interactive { width: 100%; max-width: 600px; margin: 20px auto; display: block; border-radius: 10px; }
+  </style>
+</head>
+<body>
+
+<div style="text-align:center;padding:15px;background:#fff;">
+  <button class="btn" onclick="setLang('ar')">العربية</button>
+  <button class="btn" onclick="setLang('en')">English</button>
+  <button class="btn" onclick="setLang('fr')">Français</button>
+</div>
+
+<header>
+  <div style="display:flex;flex-direction:column;align-items:center;gap:20px;">
+    <!-- استخدام صور من الإنترنت بدل تحميل محلي -->
+    <img src="data:image/jpeg;base64,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" alt="Mercedes-Benz" class="logo-animate" style="max-width:120px; filter: brightness(0) invert(1);" />
+    <div style="position:relative; width:140px; height:140px; margin-top:15px;" class="logo-animate">
+      <div style="position:absolute; top:0; left:0; width:100%; height:100%; border:3px solid #1c1c1c; border-radius:50%; display:flex; align-items:center; justify-content:center; font-size:64px; font-weight:bold; color:#1c1c1c;">M</div>
+      <div style="position:absolute; bottom:10px; right:10px; width:40px; height:40px; background:url('https://upload.wikimedia.org/wikipedia/commons/e/e7/Golden_Eagle_in_flight.jpg') no-repeat center/cover;"></div>
+    </div>
+    <h1 data-ar="✨ شَهِّر منتجك ✨" data-en="✨ Promote Your Product ✨" data-fr="✨ Faites connaître votre produit ✨"></h1>
+    <p data-ar="تسليط الضوء على العلامات والمنتجات الأيقونية بأسلوب كلاسيكي احترافي" data-en="Highlighting iconic brands and products with a classic, professional style" data-fr="Mettre en avant des marques et produits iconiques avec un style classique et professionnel"></p>
+    <div style="display:flex;gap:15px;justify-content:center;flex-wrap:wrap;">
+      <a class="btn" href="#discover" data-ar="🔍 اكتشف العلامة" data-en="🔍 Discover the Brand" data-fr="🔍 Découvrir la marque"></a>
+      <a class="btn" href="https://wa.me/213000000000" data-ar="📲 استفسار" data-en="📲 Inquiry" data-fr="📲 Demande"></a>
+    </div>
+  </div>
+</header>
+
+<section id="discover">
+  <h2 data-ar="لماذا هذا المنتج يستحق التشهير؟" data-en="Why does this product deserve exposure?" data-fr="Pourquoi ce produit mérite-t-il d'être mis en avant ?"></h2>
+  <div class="features">
+    <div class="box" data-ar="📢 إبراز الفكرة والقيمة الحقيقية للمنتج" data-en="📢 Highlighting the real value of the product" data-fr="📢 Mettre en avant la vraie valeur du produit"></div>
+    <div class="box" data-ar="🧠 بناء صورة ذهنية قوية عند الجمهور" data-en="🧠 Building a strong brand perception" data-fr="🧠 Construire une image forte dans l'esprit du public"></div>
+    <div class="box" data-ar="⭐ خلق الثقة والمصداقية" data-en="⭐ Creating trust and credibility" data-fr="⭐ Créer la confiance et la crédibilité"></div>
+    <div class="box" data-ar="🚀 زيادة الانتشار والاهتمام" data-en="🚀 Increasing visibility and interest" data-fr="🚀 Augmenter la visibilité et l'intérêt"></div>
+  </div>
+</section>
+
+<section class="tutorial-box">
+  <h2 data-ar="📹 شرح فيديو تعليمي" data-en="📹 Video Tutorial" data-fr="📹 Tutoriel vidéo"></h2>
+  <iframe class="video-interactive" sr" title="شرح الفيديو التعليمي" allowfullscreen></iframe>
+  <p data-ar="هذا الفيديو يوضح كيفية التحكم في موقعك وإضافة الأكواد بنفسك" data-en="This video shows how to manage your site and add your own code" data-fr="Cette vidéo montre comment gérer votre site et ajouter votre propre code"></p>
+</section>
+
+<section class="interactive-box">
+  <h2 data-ar="🖥️ تجربة إضافة كود جديد" data-en="🖥️ Try Adding New Code" data-fr="🖥️ Essayez d'ajouter un nouveau code"></h2>
+  <p data-ar="يمكنك تعديل النص، الضغط على الزر، أو تغيير الصورة المتحركة لتجربة التحكم بنفسك" data-en="You can edit the text, click the button, or change the animated image to try controlling it yourself" data-fr="Vous pouvez modifier le texte, cliquer sur le bouton ou changer l'image animée pour tester vous-même"></p>
+  <!-- فيديو عبر الإنترنت بدل رفع محلي -->
+  <video class="video-interactive" controls>
+    <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+    متصفحك لا يدعم عرض الفيديو.
+  </video>
+  <br/>
+  <a class="btn" href="#" onclick="alert('تهانينا! لقد ضغطت الزر ونجحت بالتجربة');">تجربة الزر</a>
+</section>
+
+<footer>
+  <p data-ar="© 2025 جميع الحقوق محفوظة" data-en="© 2025 All rights reserved" data-fr="© 2025 Tous droits réservés"></p>
+</footer>
+
+<script>
+function setLang(lang) {
+  document.documentElement.dir = (lang === 'ar') ? 'rtl' : 'ltr';
+  document.querySelectorAll('[data-' + lang + ']').forEach(el => {
+    el.textContent = el.getAttribute('data-' + lang);
+  });
+}
+setLang('ar');
+</script>
+
+</body>
+</html>
